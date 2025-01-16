@@ -13,5 +13,5 @@ Chat GPT
 Imagens:
 
 ![Texto alternativo](C:\Users\Fernanda46528586\site-super-herois\img\site1.png)
-![Texto alternativo](img/site2.png)
-![Texto alternativo](img/site3.png)
+![Texto alternativo](C:\Users\Fernanda46528586\site-super-herois\img\site2.png)
+![Texto alternativo](C:\Users\Fernanda46528586\site-super-herois\img\site3.png)
