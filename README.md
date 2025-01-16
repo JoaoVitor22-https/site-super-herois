@@ -1,12 +1,9 @@
-Site Super Heróis
-
+Site Super Heróis:
 Este site apresenta 3 super herois e 3 super vilões
 
-Desenvolvedores
-
+Desenvolvedores:
 João "ju!¢£" Vitor
 
-Tecnologias utilizadas
-
+Tecnologias utilizadas:
 Chat GPT
 
