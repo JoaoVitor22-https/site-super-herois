@@ -12,4 +12,4 @@ Chat GPT
 
 Imagens:
 
-![Texto alternativo](C:\Users\Fernanda46528586\site-super-herois\img\site1.png)
+![Texto alternativo](C:\Users\Fernanda46528586\site-super-herois\img)
