@@ -8,7 +8,8 @@ João "ju!¢£" Vitor
 
 Tecnologias utilizadas:
 
-Chat GPT
+HTML
+CSS
 
 Imagens:
 
